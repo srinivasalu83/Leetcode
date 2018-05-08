@@ -1,0 +1,1 @@
+leetcode submission $1 -o all -x
